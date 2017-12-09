@@ -5,7 +5,7 @@
         "src": "ics_logo_512x512.png",
         "sizes": "512x512"
       }],
-  "start_url": "/",
+  "start_url": "https://turtley60537.github.io/GCMPushTest2/",
   "display": "standalone",
-  "gcm_sender_id": "1055020870596"
+  "gcm_sender_id": "1014086547004"
 }
