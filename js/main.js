@@ -1,7 +1,7 @@
 'use strict';
 
 // GoogleCouldMessagingで取得したAPIキーを設定
-var API_KEY = 'AIzaSyDflpEui46flMSPuxGgPFoKTqIP7InXKtA';
+var API_KEY = 'AIzaSyANs5wwKjL8xTcWMnu8h5e724XenTG75vM';
 
 // GCMのエンドポイントのBaseURL
 var GCM_ENDPOINT = 'https://android.googleapis.com/gcm/send';
