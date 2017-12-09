@@ -12,7 +12,7 @@ self.addEventListener('push', function (event) {
     event.waitUntil(
         self.registration.showNotification(title, {
             body: body,
-            icon: 'http://free-images.gatag.net/images/201108090000.jpg',
+            icon: 'assets/img/kame.jpg',
             tag: 'push-notification-tag'
         })
     );
